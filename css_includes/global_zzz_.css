@@ -1,0 +1,27 @@
+body {
+    color: black;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 20pt;
+    background-color: white;
+    margin-left: 0;
+    margin-top: none;
+}
+li.Question-scale-box {
+    float: left;
+
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    margin-right: 0.5em;
+    padding-right: 0;
+    border: 1px #9ea4b1 solid;   
+    font-size: 1em;            
+    width: 9em;                  
+    height: 3em;
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;  
+    text-align: center;
+}
+.next-item-message {
+    font-style: normal;
+}
